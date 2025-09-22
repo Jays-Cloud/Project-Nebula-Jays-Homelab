@@ -28,7 +28,7 @@ This README serves as a **high-level overview** of what I’ve completed and wha
   - NAS file services  
   - Veeam Backup & Replication (backup management for infrastructure + data)  
   - Cloudflare Access (SSO-protected external access to NAS + lab services)
-  - - Azure Tenant (cloud identity, policy, and security baseline configuration)  
+  - Azure Tenant (cloud identity, policy, and security baseline configuration)  
 - **Monitoring (Planned):** Security Onion, SIEM (Splunk/Sentinel)  
 
 ---
